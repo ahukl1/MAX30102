@@ -1,0 +1,15 @@
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+heart\timers.o: D:\mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+heart\timers.o: D:\mdk\ARM\ARMCC\Bin\..\include\stddef.h
+heart\timers.o: D:\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+heart\timers.o: ../Core/Inc/FreeRTOSConfig.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+heart\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

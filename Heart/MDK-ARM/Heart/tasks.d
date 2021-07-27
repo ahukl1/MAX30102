@@ -1,0 +1,16 @@
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+heart\tasks.o: D:\mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+heart\tasks.o: D:\mdk\ARM\ARMCC\Bin\..\include\string.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+heart\tasks.o: D:\mdk\ARM\ARMCC\Bin\..\include\stddef.h
+heart\tasks.o: D:\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+heart\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+heart\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

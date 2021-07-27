@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : F:\PCB\Stm32 Board\remote¡ª¡ªcontrol\PCB2.PcbDoc
+Date         : 2021/4/13
+Time         : 12:23:37
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1968.504milsx1968.504mils
+    Components on board, 57
+count : 2
+
+Routing Information
+    Routing completion, 99.15%
+    Connections, 118
+    Connections routed, 117
+    Connections remaining, 1
+count : 4

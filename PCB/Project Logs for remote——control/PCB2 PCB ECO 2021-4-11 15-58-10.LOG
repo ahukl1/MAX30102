@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP1 Old Footprint=XH2.54-WI-2P New Footprint=HDR2.54-LI-2P
+Change Component Footprint: Designator=JP2 Old Footprint=XH2.54-WI-7P New Footprint=HDR2.54-LI-7P
+Added Room: Name=Sheet2
